@@ -1,0 +1,15 @@
+html , section {
+    background-color: #D6E2E9;
+}
+
+section {
+    padding-top: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+section , div , h4 {
+    font-size: 2rem;
+}
